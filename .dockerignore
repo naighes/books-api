@@ -1,0 +1,9 @@
+node_modules
+grafana
+prometheus
+.dist
+.eslintignore
+.eslintrc.cjs
+.gitignore
+.prettierignore
+.prettierrc
